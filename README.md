@@ -1,5 +1,7 @@
 # AddinOutlookGist
-Note: Actually this Add-in is for the dark mode of office. 
+Build a message compose Outlook add-in. This is the complete project of the following link: <br/> 
+https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/outlook-tutorial <br/>
+<strong>Note:</strong> Actually this Add-in is for the dark mode of office. 
 # To run the project:
 1. Close your outlook
 2. npm start
